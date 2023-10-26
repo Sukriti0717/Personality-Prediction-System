@@ -6,7 +6,17 @@ The system built in this project predicts personality of peoples by using their 
 - Natural Reactions
 - Agreeableness
 - Extraversion/Introversion
-  # Advantages
+# Datasets
+Datasets used in this project is downloaded from - (https://www.kaggle.com/)
+# Built with
+- os
+- pandas
+- numpy
+- tkinter
+- functools
+- pyresparser
+- sklearn
+# Advantages
 - This system can be used in many business sectors that may require expert candidate.
 - This system will reduce workload of the human resource department.
 - This system will help the human resource department to select right candidate for particular job profile which in turn provide expert workforce for the organization.
